@@ -4,4 +4,4 @@ It is a spring boot project using mysql database for data storage
 Usually details includes: name, email, phone etc.
 
 At the username and password section, make sure you
-Provide your
+Provide your own, that is, the ones you used in your database set up
