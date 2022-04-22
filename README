@@ -2,3 +2,6 @@ Project Name: Details
 This project stores the details of customers
 It is a spring boot project using mysql database for data storage
 Usually details includes: name, email, phone etc.
+
+At the username and password section, make sure you
+Provide your
