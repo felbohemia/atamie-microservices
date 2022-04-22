@@ -5,3 +5,7 @@ Usually details includes: name, email, phone etc.
 
 At the username and password section, make sure you
 Provide your own, that is, the ones you used in your database set up
+
+In addition, the code structured following standard industry pattern:
+There are: domain, services, repository and controllers folders
+Where the related codes are stored.
